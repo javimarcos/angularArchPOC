@@ -1,3 +1,4 @@
+#NECESARY STEPS
 1. bower global instalation
     npm install -g bower
 2. Creation of .bowerrc manifest file to indicate
